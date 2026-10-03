@@ -173,7 +173,7 @@ flutter run
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ### Product Details
 
@@ -187,21 +187,9 @@ flutter run
 
 ![Cart](screenshots/cart.png)
 
-### Product Details
-
-*Add your Product Details screenshot here.*
-
-### Favorites
-
-*Add your Favorites screenshot here.*
-
-### Cart
-
-*Add your Cart screenshot here.*
-
 ## Evaluation Areas
 
-This project focuses on:
+This project focuses on:  
 
 * Flutter fundamentals
 * Code readability
